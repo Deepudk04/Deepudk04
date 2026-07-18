@@ -1,17 +1,21 @@
 # 💫 About Me:
 
-👋 Hi, I'm Deepak Kumar Asokan
-I’m a Software Engineer with 2+ years of experience building scalable and reliable applications, primarily on the backend.
+# Hi, I'm Deepak Kumar Asokan 👋
 
-💡 Currently working on an AI-powered document generator project, where I’m exploring intelligent automation and content generation.
+### Software Engineer | Backend & Distributed Systems | Java • Spring Boot • React.js | Applied AI
 
-🤖 Current Focus
+I’m a Software Engineer with 2+ years of experience building production backend systems, cloud-native applications, REST APIs, microservices, and event-driven workflows.
 
-I’m actively diving deeper into:
-System Designs and Design patterns
-AI Agents & MCP
-Retrieval-Augmented Generation (RAG)
-Vector Databases
+I currently work on technology for the U.S. mortgage domain, where my experience spans backend services, authorization, queue-driven processing, real-time notifications, document workflows, cloud deployments, and production observability.
+
+I enjoy transforming complex business workflows into systems that are reliable, scalable, observable, and maintainable.
+
+## 🤖 Current Focus
+
+- **System Design and Distributed Systems:** Scalability, reliability, caching, messaging, consistency, observability, and failure-mode analysis
+- **Low-Level Design and Design Patterns:** Building modular, extensible, and maintainable object-oriented systems
+- **AI Agents and MCP:** Developing tool-enabled agent workflows with orchestration, validation, guardrails, and human-in-the-loop review
+- **RAG and Vector Search:** Improving document retrieval through embeddings, chunking, metadata filtering, pgvector, and retrieval evaluation
 
 I enjoy building systems that are not just functional, but efficient, observable, and scalable.
 

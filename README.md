@@ -10,6 +10,20 @@ I currently work on technology for the U.S. mortgage domain, where my experience
 
 I enjoy transforming complex business workflows into systems that are reliable, scalable, observable, and maintainable.
 
+## Featured Projects
+
+### [FlowForge AI](https://github.com/Deepudk04/flowforge-ai)
+
+An AI-powered platform that uses LLM orchestration and Retrieval-Augmented Generation to transform business-process inputs into structured documents and Mermaid workflow diagrams.
+
+Built with **Spring Boot, FastAPI, LLM integration, RAG, PostgreSQL, pgvector, Docker, and GitHub Actions**.
+
+### [LogSentinel](https://github.com/Deepudk04/log-sentinel-agent)
+
+An AI-assisted code-analysis agent that identifies logging and exception-handling risks in Java and Python repositories.
+
+Combines **Tree-sitter static analysis, OWASP-inspired rules, Gemini-powered semantic review, validated LLM findings, SARIF reporting, and GitHub Actions integration**.
+
 ## 🤖 Current Focus
 
 - **System Design and Distributed Systems:** Scalability, reliability, caching, messaging, consistency, observability, and failure-mode analysis
